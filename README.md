@@ -8,24 +8,23 @@ Welcome to the **IntelliWealth Advisors** dashboard, your go-to platform for com
 ## Dashboard Overview
 
 ### 1. Home Image
-![Home Image](https://github.com/Half-blood-prince-2710/IntelliWealth-Advisors/raw/main/HOME_IMAGE.png)
+![Home Image](https://raw.githubusercontent.com/Half-blood-prince-2710/IntelliWealth-Advisors/main/IWA_HOME.png)
 The **Home** section provides a welcoming interface where users can easily navigate through various features of the IntelliWealth Advisors dashboard. It serves as the starting point for your financial journey.
 
 ### 2. IntelliWealth Advisors Dashboard Image
-![IntelliWealth Advisors Dashboard Image](https://github.com/Half-blood-prince-2710/IntelliWealth-Advisors/raw/main/IWA_DASHBOARD.png)
+![IntelliWealth Advisors Dashboard Image](https://raw.githubusercontent.com/Half-blood-prince-2710/IntelliWealth-Advisors/main/IWA_DASHBOARD.png)
 The **IntelliWealth Advisors Dashboard** serves as the central hub for all your financial activities. It provides a user-friendly interface where you can view your financial health at a glance, track your investments, and monitor your budget in real-time.
 
 ### 3. IntelliWealth Advisors Budget Overview
-![IntelliWealth Advisors Dashboard Budget Image](https://github.com/Half-blood-prince-2710/IntelliWealth-Advisors/raw/main/IWA-DASHBOARD_BUDGET.png)
+![IntelliWealth Advisors Dashboard Budget Image](https://raw.githubusercontent.com/Half-blood-prince-2710/IntelliWealth-Advisors/main/IWA-DASHBOARD_BUDGET.png)
 The **Budget Overview** section allows you to set budgets for various categories and track your spending against those budgets. This feature helps you stay on top of your finances and ensures that you are aligned with your financial goals.
 
 ### 4. IntelliWealth Advisors Upgrade Features
-![IntelliWealth Advisors Upgrade Image](https://github.com/Half-blood-prince-2710/IntelliWealth-Advisors/raw/main/IWA_UPGRADE.png)
+![IntelliWealth Advisors Upgrade Image](https://raw.githubusercontent.com/Half-blood-prince-2710/IntelliWealth-Advisors/main/IWA_UPGRADE.png)
 With the **Upgrade Features**, you can enhance your financial planning experience. This section highlights the premium tools and services available to help you optimize your investment strategies and achieve your financial objectives.
 
 ## About Us
 
 At **IntelliWealth Advisors**, we are dedicated to providing the best financial advice tailored to your needs. Our team of experts is committed to helping you navigate the complexities of financial planning and investment management. Join us on this journey to financial empowerment!
-
 
 For more information, feel free to explore my projects or contact me.
